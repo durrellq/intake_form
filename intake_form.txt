@@ -10,7 +10,7 @@
 <body>
 <div class="container pt-3">
 
-	<h2>&#128509;</h2><h1 style="text-align:center;background-color:DodgerBlue;">Kingdoms Family Center</h1>
+	<h1>&#128509;</h1><h1 style="text-align:center;background-color:DodgerBlue;">Kingdoms Family Center</h1>
 
 <h3 style="border:2px solid DodgerBlue;">Type in first and last name in the below fields.</h3>
 
